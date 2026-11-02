@@ -33,7 +33,7 @@
     "color": {
       "background": "#fbfaf7",
       "surface": "#ffffff",
-      "text": "#23201c",
+      "text": "#000000",
       "muted": "#7a7468",
       "accent": "#6d42e0",
       "accent2": "#2f6f5e",
@@ -42,7 +42,7 @@
       "heading": "#23201c"
     },
     "type": {
-      "headingFont": "Anton",
+      "headingFont": "DM Serif Display",
       "bodyFont": "Lora",
       "headingWeight": 600,
       "bodyWeight": 400,
