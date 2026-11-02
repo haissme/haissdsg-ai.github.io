@@ -48,7 +48,7 @@
       "bodyWeight": 400,
       "baseSize": 18,
       "headingTransform": "none",
-      "letterSpacing": 0.02
+      "letterSpacing": 0
     },
     "shape": {
       "radius": 0,
